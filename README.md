@@ -1,0 +1,2 @@
+# Smart College Timetable Generator
+ 
