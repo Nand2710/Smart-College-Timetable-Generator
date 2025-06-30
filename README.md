@@ -1,4 +1,4 @@
-# 📅 Smart College Timetable Generator
+# Smart College Timetable Generator
 
 ## 📝 Introduction
 
